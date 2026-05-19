@@ -1,28 +1,5 @@
 # sqflrvrpd
 
-A new Flutter project.
----
-marp: true
-theme: default
-paginate: true
-size: 16:9
-style: |
-  section {
-    background-color: #f8f9fa;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  h1 {
-    color: #02569B;
-  }
-  h2 {
-    color: #0175C2;
-  }
-  code {
-    background-color: #e9ecef;
-    padding: 2px 4px;
-    border-radius: 4px;
-  }
----
 
 <!-- _class: lead -->
 # Implementasi SQFLITE, Flutter Secure Storage, dan Riverpod dengan pendekatan MVVM di Flutter
