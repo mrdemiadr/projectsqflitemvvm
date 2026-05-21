@@ -12,7 +12,7 @@
 
 - **Model:** Representasi blueprint data (`UserModel`).
 - **Data (Repository):** Lapisan yang mengurus dari mana data berasal (Database Sqflite & Secure Storage).
-- **ViewModel (Riverpod):** Otak aplikasi. Mengambil data dari Repository, memprosesnya, dan mengubah nilainya menjadi *State* (Kondisi).
+- **ViewModel (Riverpod):** Fungsi utama aplikasi. Mengambil data dari Repository, memprosesnya, dan mengubah nilainya menjadi *State* (Kondisi).
 - **View (UI):** Antarmuka pengguna yang pasif. Hanya memantau ViewModel dan merender layar jika ada perubahan.
 
 <!-- Note:
